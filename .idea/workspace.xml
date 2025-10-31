@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37954aef-6e86-44ba-87d8-1604369d5f6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="37954aef-6e86-44ba-87d8-1604369d5f6f" name="Changes" comment="modified the code">
       <change beforePath="$PROJECT_DIR$/src/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/file1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1761941894628</updated>
     </task>
+    <task id="LOCAL-00001" summary="modified the code">
+      <option name="closed" value="true" />
+      <created>1761942884613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761942884613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified the code" />
   </component>
 </project>
